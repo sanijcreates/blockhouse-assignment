@@ -30,15 +30,19 @@ For the Next.js application, I began by studying the documentation to understand
 1. **Clone the Repository:**
 2. **cd to backend repository**
 3. **Install Django and Dependencies**
+   ```bash
     pip install -r requirements.txt
-4. **Run Migrations**
+5. **Run Migrations**
+   ```bash
     python manage.py migrate
-5. **Django Dev Server**
+6. **Django Dev Server**
+   ```bash
     python manage.py runserver
 
 ### Setting Up the Next.js Frontend
 
 1. **Navigate to Frontend Directory:**
+   ```bash
     npm install
     npm run dev
 
