@@ -39,6 +39,6 @@ For the Next.js application, I began by studying the documentation to understand
 ### Setting Up the Next.js Frontend
 
 1. **Navigate to Frontend Directory:**
-    npm install
-    npm run dev
+    *npm install*
+    *npm run dev*
 
